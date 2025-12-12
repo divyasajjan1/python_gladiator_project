@@ -73,9 +73,3 @@ This project demonstrates how to store, manage, and query data for fictional spo
 - SQLite
 - PostgreSQL
 - SQL queries for data analysis
-
----
-
-## Author
-
-**Your Name** – [GitHub Profile](https://github.com/yourusername)
