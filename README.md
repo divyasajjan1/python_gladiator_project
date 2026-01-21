@@ -1,5 +1,3 @@
-# python_gladiator_project
-Players analysis using python and DB connections (postgres/sqlite)
 # Marvel & DC Teams Project
 
 This project demonstrates how to store, manage, and query data for fictional sports teams: **Team Marvel** and **Team DC**. It showcases both **Python object-oriented programming** and **database implementation** using **SQLite** and **PostgreSQL**.
